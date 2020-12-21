@@ -1,0 +1,86 @@
+body{
+    
+    background-image: url('images/bg1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    
+
+}
+
+/*----------------------register.php-----------------------*/
+.modi{
+    margin-left: 40%;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(51, 49, 49, 0.5);
+    width: 280px;
+    height: 640px;
+    color: pink;
+    font-size: 22px;
+
+}
+#log{
+    padding: 15px;
+    font-size: 18px;
+    float: right;
+    border-radius: 40px;
+    border : none;
+    background-color: transparent;
+}
+
+#subbutton{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 40px;
+    background-color: transparent;
+}
+
+/*----------------------login.php-----------------------*/
+
+#loginform{
+    margin-top: 17%;
+}
+
+.namo{
+    margin-left: 37%;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(51, 49, 49, 0.5);
+    width: 280px;
+    height: 210px;
+    color: pink;
+    font-size: 22px;
+
+}
+
+/*----------------------login.php-----------------------*/
+
+h1{
+    text-align: center;
+    color: cyan;
+}
+table{
+    text-align: center;
+    margin-left: 28%;
+    color: cyan;
+    background-color: rgba(51, 49, 49, 0.5);
+}
+img{
+    border-radius: 40px;
+}
+
+#logout{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 40px;
+    background-color: transparent;
+    margin-left: 89%;
+}
+
+.user{
+    margin-left: 80%;
+    color: whitesmoke;
+    padding: 10px;
+    font-size: 18px;
+}
